@@ -1,0 +1,374 @@
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.rectangleDiv,
+.unsplashqom5MPOERIIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.unsplashqom5MPOERIIcon {
+  object-fit: cover;
+}
+.rectangleDiv {
+  background-color: rgba(13, 13, 13, 0.95);
+}
+.thSpan {
+  color: var(--primary-color);
+}
+.theArtOfSpeed {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.foodQualityP {
+  margin: 0;
+}
+.theArtOfSpeedFoodQuality {
+  top: 13.48%;
+  line-height: 68px;
+}
+.itsQuickAmusing,
+.loremIpsumDolorSitAmetCo,
+.theArtOfSpeedFoodQuality {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.loremIpsumDolorSitAmetCo {
+  top: 77%;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  font-family: var(--font-inter);
+}
+.itsQuickAmusing {
+  top: 0;
+  font-size: 32px;
+  line-height: 40px;
+  font-family: var(--font-great-vibes);
+  color: var(--primary-color);
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  border-radius: 30px;
+  background-color: var(--primary-color);
+  width: 190px;
+  height: 60px;
+}
+.seeMenuDiv {
+  position: absolute;
+  top: 125%;
+  left: 30%;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  font-family: var(--font-inter);
+  color: #e0dfdf;
+  text-align: left;
+  display: inline-block;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 296px;
+  left: 0;
+  width: 190px;
+  height: 60px;
+}
+.button:hover {
+  animation: 1s ease-out 0s 1 normal none fade-in;
+  opacity: 1;
+}
+.textContantDiv {
+  position: absolute;
+  height: 37.47%;
+  width: 24.58%;
+  top: 30.84%;
+  right: 59.79%;
+  bottom: 31.68%;
+  left: 15.63%;
+}
+.lineDiv,
+.lineDiv1 {
+  position: absolute;
+  top: -0.5px;
+  left: 5.5px;
+  background-color: var(--fffffff);
+  border-right: 1px solid var(--fffffff);
+  box-sizing: border-box;
+  width: 1px;
+  height: 159px;
+}
+.lineDiv1 {
+  top: 344.5px;
+  height: 148px;
+}
+.div,
+.div1 {
+  height: 23.56%;
+  display: inline-block;
+}
+.div {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  -webkit-text-stroke: 1px #fff;
+}
+.div1 {
+  top: 38.22%;
+  color: var(--primary-color);
+  -webkit-text-stroke: 1px #ff9f0d;
+}
+.div1,
+.div2,
+.groupDiv1 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.div2 {
+  height: 23.56%;
+  top: 76.44%;
+  display: inline-block;
+  -webkit-text-stroke: 1px #fff;
+}
+.groupDiv1 {
+  height: 21.75%;
+  top: 41.26%;
+  right: 0;
+  bottom: 36.99%;
+}
+.groupDiv {
+  position: absolute;
+  top: 191px;
+  left: 242px;
+  width: 25.28px;
+  height: 492px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-themify);
+}
+.image68Icon {
+  position: absolute;
+  top: 0;
+  left: 437.09px;
+  width: 440.71px;
+  height: 669.6px;
+  object-fit: cover;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 44.92px;
+  left: 28.07px;
+  width: 578.3px;
+  height: 578.3px;
+}
+.rectangleIcon,
+.rectangleIcon1 {
+  position: absolute;
+  top: 36.49px;
+  left: 74.86px;
+  width: 624.15px;
+  height: 633.51px;
+  object-fit: cover;
+}
+.rectangleIcon1 {
+  top: 78.6px;
+  left: 63.63px;
+  width: 96.38px;
+  height: 99.19px;
+}
+.unsplashGkcXM3VY34Icon,
+.unsplashMTzZD5z720Icon {
+  position: absolute;
+  top: 250.78px;
+  left: 0;
+  width: 74.86px;
+  height: 68.31px;
+  object-fit: cover;
+}
+.unsplashGkcXM3VY34Icon {
+  top: 392.08px;
+  left: 14.04px;
+  width: 60.82px;
+  height: 54.27px;
+}
+.imageDiv,
+.rectangleIcon2 {
+  position: absolute;
+  top: 198px;
+  left: 865px;
+  width: 877.8px;
+  height: 670px;
+}
+.rectangleIcon2 {
+  top: 700px;
+  left: 947px;
+  width: 26px;
+  height: 22px;
+  object-fit: cover;
+}
+.headerHeroDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.about,
+.blogA,
+.contact,
+.menuA,
+.pages,
+.shopA {
+  text-decoration: none;
+  position: absolute;
+  top: 55.17%;
+  left: 5.83%;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+}
+.about,
+.blogA,
+.contact,
+.pages,
+.shopA {
+  left: 11.52%;
+}
+.about,
+.contact,
+.pages,
+.shopA {
+  left: 16.52%;
+}
+.about,
+.contact,
+.shopA {
+  left: 22.5%;
+}
+.contact,
+.shopA {
+  left: 28.41%;
+}
+.contact {
+  left: 33.79%;
+}
+.projectStatusIcon {
+  position: absolute;
+  height: 13.79%;
+  width: 0.91%;
+  top: 64.37%;
+  right: 73.03%;
+  bottom: 21.84%;
+  left: 26.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleInput,
+.searchInput {
+  background-color: transparent;
+  position: absolute;
+}
+.rectangleInput {
+  border: 1px solid var(--primary-color);
+  height: 62.07%;
+  width: 23.48%;
+  top: 37.93%;
+  right: 2.42%;
+  bottom: 0;
+  left: 74.09%;
+  border-radius: 27px;
+  box-sizing: border-box;
+}
+.searchInput {
+  border: 0;
+  top: 54.02%;
+  left: 76.06%;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  font-family: var(--font-inter);
+  color: var(--fffffff);
+  text-align: left;
+  display: inline-block;
+}
+.groupIcon,
+.handbagIcon {
+  position: absolute;
+  height: 29.77%;
+  width: 1.96%;
+  top: 52.74%;
+  right: 4.33%;
+  bottom: 17.49%;
+  left: 93.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.handbagIcon {
+  height: 27.59%;
+  width: 1.82%;
+  top: 54.02%;
+  right: 0;
+  bottom: 18.39%;
+  left: 98.18%;
+}
+.homeA {
+  text-decoration: none;
+  position: absolute;
+  top: 55.17%;
+  left: 0;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+}
+.ellipseIcon1 {
+  position: absolute;
+  height: 8.05%;
+  width: 0.53%;
+  top: 82.76%;
+  right: 98.18%;
+  bottom: 9.2%;
+  left: 1.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.foodtuckB {
+  position: absolute;
+  top: 0;
+  left: 45.83%;
+  font-size: var(--heading-5-24-size);
+  line-height: 32px;
+  display: inline-block;
+  font-family: var(--heading-1-60);
+}
+.navberDiv {
+  position: absolute;
+  top: 45px;
+  left: 300px;
+  width: 1320px;
+  height: 87px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.headerHeroDiv {
+  position: relative;
+  width: 100%;
+  height: 950px;
+  text-align: left;
+  font-size: var(--heading-1-60-size);
+  color: var(--fffffff);
+  font-family: var(--heading-1-60);
+}
